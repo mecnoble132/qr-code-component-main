@@ -1,0 +1,43 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); text-align: center; }
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+}
+.container{
+    background-color: hsl(212, 45%, 89%);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card{
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+    max-width: 330px;
+    box-shadow: 10px 10px 50px #00000025, -10px 10px 50px #00000025;
+}
+.card img{
+    width: 300px;
+    border-radius: 10px;
+}
+.card .texts{
+    margin: 10px;
+    text-align: center;
+}
+.card .texts h2{
+    color: hsl(218, 44%, 22%);
+}
+.card .texts p{
+    margin-top: 20px;
+    color: hsl(220, 15%, 55%);
+}
