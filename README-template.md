@@ -22,7 +22,7 @@ This is the readme file of my project.
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://mecnoble132.github.io/qr-code-component-main/)
 
 ## My process
 
