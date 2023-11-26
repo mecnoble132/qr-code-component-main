@@ -38,6 +38,6 @@ body{
     color: hsl(218, 44%, 22%);
 }
 .card .texts p{
-    margin-top: 20px;
+    margin: 20px;
     color: hsl(220, 15%, 55%);
 }
